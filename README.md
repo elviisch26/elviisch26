@@ -1,16 +1,45 @@
-## Hi there 👋
+# ¡Hola! Soy Elvis 👋
 
-<!--
-**elviisch26/elviisch26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desarrollador Móvil & Web
 
-Here are some ideas to get you started:
+Soy un desarrollador versátil apasionado por la creación de soluciones tecnológicas tanto para dispositivos móviles como para la web. Me especializo en construir aplicaciones nativas y multiplataforma, así como interfaces web modernas y dinámicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Lo que hago
+
+- 📱 **Desarrollo Móvil:** Experiencia creando apps nativas con **Kotlin** y soluciones multiplataforma con **Dart**.
+- 💻 **Desarrollo Web:** Construcción de SPAs (Single Page Applications) robustas utilizando **Angular** y **TypeScript**.
+- 🔄 **Enfoque Híbrido:** Capacidad para adaptarme y desarrollar tanto en el ecosistema Android como en el Frontend web moderno.
+
+---
+
+### 🛠️ Tech Stack
+
+#### Desarrollo Móvil
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+#### Desarrollo Web
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elviisch26&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Elvis" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elviisch26&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+---
+
+### 📫 Conecta conmigo
+
+<!-- Puedes agregar tus enlaces de LinkedIn o Email aquí abajo -->
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-// filepath: c:\Users\elvis\OneDrive\Documentos\GitHub\elviisch26\README.md
