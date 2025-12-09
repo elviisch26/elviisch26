@@ -27,19 +27,3 @@ Soy un desarrollador versátil apasionado por la creación de soluciones tecnol�
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elviisch26&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Elvis" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elviisch26&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</div>
-
----
-
-### 📫 Conecta conmigo
-
-<!-- Puedes agregar tus enlaces de LinkedIn o Email aquí abajo -->
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-// filepath: c:\Users\elvis\OneDrive\Documentos\GitHub\elviisch26\README.md
